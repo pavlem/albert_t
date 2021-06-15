@@ -1,10 +1,3 @@
-//
-//  MainCoordinator.swift
-//  Ebay_t
-//
-//   Created by Pavle Mijatovic on 12.5.21..
-//
-
 import UIKit
 
 class MainCoordinator: Coordinator {
@@ -17,14 +10,14 @@ class MainCoordinator: Coordinator {
     }
     
     func start() {
-        let vc = ListVC()
+        let vc = ArtListVC()
         vc.coordinator = self
         navigationController.pushViewController(vc, animated: true)
     }
     
-    func open(detailsVM: DetailsVM) {
-        let vc = DetailsVC()
-        vc.vm = detailsVM
+    func open(infoDetailsVM: ArtDetailsVM) {
+        let vc = ArtDetailsVC()
+        vc.vm = infoDetailsVM
         navigationController.pushViewController(vc, animated: true)
     }
 }

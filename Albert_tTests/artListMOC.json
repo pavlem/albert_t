@@ -1,0 +1,2607 @@
+{
+    "elapsedMilliseconds": 0,
+    "count": 722509,
+    "countFacets": {
+        "hasimage": 488908,
+        "ondisplay": 8395
+    },
+    "artObjects": [
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/BK-18305",
+                "web": "http://www.rijksmuseum.nl/en/collection/BK-18305"
+            },
+            "id": "en-BK-18305",
+            "objectNumber": "BK-18305",
+            "title": "Portrait of Andries de Graeff",
+            "hasImage": true,
+            "principalOrFirstMaker": "Artus Quellinus (I)",
+            "longTitle": "Portrait of Andries de Graeff, Artus Quellinus (I), 1661",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "876923e7-ee7b-4339-b3f5-5f24f2788f1d",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2085,
+                "height": 2500,
+                "url": "https://lh5.ggpht.com/Dm4qOkEfe0P9YqnN7s-KRxy6K_o4trePSnlVvGNg0TPGcKmiDS_sdmqqbSeSENg22FFjyIz0xI2CEJhkrk9IfmDYHwo=s0"
+            },
+            "headerImage": {
+                "guid": "1d449c5c-2ea9-4e29-bb4f-161ad61a3094",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh5.ggpht.com/857ue3MkLXfJLhmfO5M9kyyB7rXZ65RmagZgmJr2TG2JFshbBVwJdw7IrzU_PL1CuyPAgkRUPA_1yQrdzRkudUFlFvw=s0"
+            },
+            "productionPlaces": [
+                "Amsterdam"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/BK-NM-13150",
+                "web": "http://www.rijksmuseum.nl/en/collection/BK-NM-13150"
+            },
+            "id": "en-BK-NM-13150",
+            "objectNumber": "BK-NM-13150",
+            "title": "Portrait of Michiel de Ruyter",
+            "hasImage": true,
+            "principalOrFirstMaker": "Rombout Verhulst",
+            "longTitle": "Portrait of Michiel de Ruyter, Rombout Verhulst, 1677 - 1681",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "dfb56cbe-6e82-4f6f-aa7a-b560ed91f07f",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2083,
+                "height": 2500,
+                "url": "https://lh3.ggpht.com/7eeRiDQLguCwPA7159-wn9Jd3AhGzmFzra0kda7SX5Vm1TqTW3sLf6UksceWq6MUJmrUSxVC5bCviXAMX1S0qd0lUi0=s0"
+            },
+            "headerImage": {
+                "guid": "c8b8814f-6a3f-429d-a2fd-2d0b2380b278",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh4.ggpht.com/7MNqSPsON_nuBu8FTQ8E-NpALOtbUgfEoyrJV7efW86Pxo_SuueubQmqy46jtWZYU9SiHLohb5elAoRbf9KvJ4cuJg=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/BK-1963-101",
+                "web": "http://www.rijksmuseum.nl/en/collection/BK-1963-101"
+            },
+            "id": "en-BK-1963-101",
+            "objectNumber": "BK-1963-101",
+            "title": "Seated Cupid",
+            "hasImage": true,
+            "principalOrFirstMaker": "Étienne-Maurice Falconet",
+            "longTitle": "Seated Cupid, Étienne-Maurice Falconet, 1757",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "f3578a1c-8560-40cc-b00e-4846d9d14a8c",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1869,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/i8S7we9zDW-AqUbZvE91O4bqsgVI_MamJhChLz6lE55MIn_kAjrYNoudrM-YEKjZTLUPyXVBgi__m6n1MMWmcbsHMy8=s0"
+            },
+            "headerImage": {
+                "guid": "fa6749fb-cc71-41ca-8537-7b585bbe8365",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1869,
+                "height": 448,
+                "url": "https://lh3.googleusercontent.com/vIYU9uO2qTjc_IfRZLFBlvyQ5Vnou12aX44h8FzHgtzeWZTcRnzAE63bBQ1SCmEvTthf2d2XFzOTTRhhbQHmS9gL8WI=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/BK-AM-33-H",
+                "web": "http://www.rijksmuseum.nl/en/collection/BK-AM-33-H"
+            },
+            "id": "en-BK-AM-33-H",
+            "objectNumber": "BK-AM-33-H",
+            "title": "Ten weepers from the tomb of Isabella of Bourbon",
+            "hasImage": true,
+            "principalOrFirstMaker": "Borman workshop, Renier van Thienen (I)",
+            "longTitle": "Ten weepers from the tomb of Isabella of Bourbon, Borman workshop (attributed to), Renier van Thienen (I) (attributed to), c. 1475 - c. 1476",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "661b6b6c-0f6d-437e-b786-3c9332036590",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1656,
+                "height": 2500,
+                "url": "https://lh3.ggpht.com/hWw39CO9_f8Layr6PT_REdtl_nJflH6L_o8jeF3XxmAquB2PKQhWK2kKRCd16TUvhdTl1UrfFC0-Wn1es9LxfdtcZQ=s0"
+            },
+            "headerImage": {
+                "guid": "2fc2cf6d-83ac-4e37-a8d1-a6bed8e7bc60",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.ggpht.com/wHOEUZMhx__a79FijUOC0J4NiBFh-9Dzw-gNm7CpDnGL3FYEQnSebHVTOzV-8urZ4vV9HPxxetL9wvKikBhHM2vpoQ=s0"
+            },
+            "productionPlaces": [
+                "Brussels"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/BK-AM-33-D",
+                "web": "http://www.rijksmuseum.nl/en/collection/BK-AM-33-D"
+            },
+            "id": "en-BK-AM-33-D",
+            "objectNumber": "BK-AM-33-D",
+            "title": "Ten weepers from the tomb of Isabella of Bourbon",
+            "hasImage": true,
+            "principalOrFirstMaker": "Borman workshop, Renier van Thienen (I)",
+            "longTitle": "Ten weepers from the tomb of Isabella of Bourbon, Borman workshop (attributed to), Renier van Thienen (I) (attributed to), c. 1475 - c. 1476",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "cc0d028f-2bc5-4770-b378-1afa99e1bf77",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1655,
+                "height": 2500,
+                "url": "https://lh6.ggpht.com/zEY5JwpbGa7M7ueF5Nyqx3N0xeCXrQ_Ck83xIws2OxWScEOdOfxv-jZwRqSoxfz4Kqq4o96XKkIggCx3_JUjpYolsw=s0"
+            },
+            "headerImage": {
+                "guid": "6311e38e-9b26-49ac-b9b9-c091b0de510a",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh4.ggpht.com/DDe9S-BYnr8N63J-X3alws5KziMq_QAeLPgTBzH2XDXTjlzQQAzHCV7FeaQi1_yaGd4j_MP8ef2y4whbUNZsY7nzihj-=s0"
+            },
+            "productionPlaces": [
+                "Brussels"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/BK-AM-33-E",
+                "web": "http://www.rijksmuseum.nl/en/collection/BK-AM-33-E"
+            },
+            "id": "en-BK-AM-33-E",
+            "objectNumber": "BK-AM-33-E",
+            "title": "Ten weepers from the tomb of Isabella of Bourbon",
+            "hasImage": true,
+            "principalOrFirstMaker": "Borman workshop, Renier van Thienen (I)",
+            "longTitle": "Ten weepers from the tomb of Isabella of Bourbon, Borman workshop (attributed to), Renier van Thienen (I) (attributed to), c. 1475 - c. 1476",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "1a3bc6ce-d516-450b-836c-f4da1eaddefa",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1655,
+                "height": 2500,
+                "url": "https://lh6.ggpht.com/z37VVIUgOOW4cumA4FvSwyvuMWdk6rjD7CBu1aAL5OGz_-RRuuQ2Xq4jEuHWn7plIwhD4bT2Qp8pnGRqbWPiNPpM0gwE=s0"
+            },
+            "headerImage": {
+                "guid": "6e9c3453-3bbe-4e94-af7f-280c19931bfe",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.ggpht.com/4ZApeLgijY_XxMxscXzTcMOnK_51Wl9YT2hswXucp_ESzZFykhHmM02xLoL9s6765IhaLueP2a4V7U-X-iBT7BWzlTth=s0"
+            },
+            "productionPlaces": [
+                "Brussels"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/BK-AM-33-B",
+                "web": "http://www.rijksmuseum.nl/en/collection/BK-AM-33-B"
+            },
+            "id": "en-BK-AM-33-B",
+            "objectNumber": "BK-AM-33-B",
+            "title": "Ten weepers from the tomb of Isabella of Bourbon",
+            "hasImage": true,
+            "principalOrFirstMaker": "Borman workshop, Renier van Thienen (I)",
+            "longTitle": "Ten weepers from the tomb of Isabella of Bourbon, Borman workshop (attributed to), Renier van Thienen (I) (attributed to), c. 1475 - c. 1476",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "6e35f2ad-d28f-4ef8-b18a-f18b2df22651",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1656,
+                "height": 2500,
+                "url": "https://lh6.ggpht.com/NLXTn4xmW5qcQQP7nL_BM9eOzXLdrKtcFUQdeLSWXHrpjMBuF3XjGV7sulajkXRYrr9G-qZdMcH3Q0fIso_jXxcjzAU=s0"
+            },
+            "headerImage": {
+                "guid": "620d0271-2b3a-4f57-ba81-ef48c10b8369",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh4.ggpht.com/CNbm55pxW59uOkqjXf9jaTL08JjzEeACCuCrnMOe-rG3KmyC6ui1PdBej6fT37CUER_aWJZMNT4c30mzc3G2H_7jPo0M=s0"
+            },
+            "productionPlaces": [
+                "Brussels"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/BK-NM-88",
+                "web": "http://www.rijksmuseum.nl/en/collection/BK-NM-88"
+            },
+            "id": "en-BK-NM-88",
+            "objectNumber": "BK-NM-88",
+            "title": "The Meeting of Joachim and Anna",
+            "hasImage": true,
+            "principalOrFirstMaker": "Master of Joachim and Anne",
+            "longTitle": "The Meeting of Joachim and Anna, Master of Joachim and Anne, c. 1470",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "05ce2b20-89d6-4211-adb3-53343285f609",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1742,
+                "height": 2500,
+                "url": "https://lh4.ggpht.com/1xfViC0J7t1dY50WCjTTZvLVsKTuSpHGcsCeWOzqa_sR76LoZh3zeRyN0D277PJbc9uKCiPfsEE5aBse70Ohbb8iWA=s0"
+            },
+            "headerImage": {
+                "guid": "882b6df7-bdee-42d2-8386-0cd69afb0f07",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1919,
+                "height": 460,
+                "url": "https://lh3.ggpht.com/Y8VAii3b-PGqya8nVGzC0esfQetb1wAloaATfkJUIDSHBEBZNfT7B9clQlFN_rrcCi6ueMN8pmCzZSkAHzjZys3Nspo=s0"
+            },
+            "productionPlaces": [
+                "Northwest Brabant"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-C-597",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-C-597"
+            },
+            "id": "en-SK-C-597",
+            "objectNumber": "SK-C-597",
+            "title": "Portrait of a Woman, Possibly Maria Trip",
+            "hasImage": true,
+            "principalOrFirstMaker": "Rembrandt van Rijn",
+            "longTitle": "Portrait of a Woman, Possibly Maria Trip, Rembrandt van Rijn, 1639",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "165d03bb-95e8-4447-a911-865f1bd201d6",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2031,
+                "height": 2676,
+                "url": "https://lh3.googleusercontent.com/AyiKhdEWJ7XmtPXQbRg_kWqKn6mCV07bsuUB01hJHjVVP-ZQFmzjTWt7JIWiQFZbb9l5tKFhVOspmco4lMwqwWImfgg=s0"
+            },
+            "headerImage": {
+                "guid": "f0270e59-baca-4429-ba00-d6c37b9ad00f",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/MonorlaCKkTjeFrTBQyCb7kfmq8K--aWrThge7MsTItJxO_cw-8WbwgmTm0jTt-qfaFfnwa1qNEnsGYVHMPmCGmb0Pje=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-447",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-447"
+            },
+            "id": "en-SK-A-447",
+            "objectNumber": "SK-A-447",
+            "title": "Fishing for Souls",
+            "hasImage": true,
+            "principalOrFirstMaker": "Adriaen Pietersz. van de Venne",
+            "longTitle": "Fishing for Souls, Adriaen Pietersz. van de Venne, 1614",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "1ccf72b5-5db6-43fc-b297-3465edf23a77",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2500,
+                "height": 1306,
+                "url": "https://lh3.googleusercontent.com/TEtv4BfucIDtINHirqpa-VHlo4x8oHWZxBPzH60g0aq3LKsfw2QKTX9TGwqeUEnSTQLdKoA0LtxkYUtRkLGRkjem0uQvJV5e25rvj4ESKg=s0"
+            },
+            "headerImage": {
+                "guid": "dd63c518-2e64-495e-824f-440f1b9fb5b0",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/00hSErEGrmF9YFRc5P39qTk2Cst3ifgRY_9zVVdUP78FJkyd0M9BMTzM4wrEFjCMhRgB4uCiyTBp3gQ7j2S1JGszr4QNe22o6O-9gwxYsQ=s0"
+            },
+            "productionPlaces": []
+        }
+    ],
+    "facets": [
+        {
+            "facets": [
+                {
+                    "key": "anonymous",
+                    "value": 169198
+                },
+                {
+                    "key": "George Hendrik Breitner",
+                    "value": 5576
+                },
+                {
+                    "key": "Jan Luyken",
+                    "value": 4901
+                },
+                {
+                    "key": "Reinier Vinkeles (I)",
+                    "value": 4388
+                },
+                {
+                    "key": "Marius Bauer",
+                    "value": 3345
+                },
+                {
+                    "key": "unknown",
+                    "value": 3022
+                },
+                {
+                    "key": "Isaac Israels",
+                    "value": 2864
+                },
+                {
+                    "key": "Johannes Tavenraat",
+                    "value": 2649
+                },
+                {
+                    "key": "Daniel Nikolaus Chodowiecki",
+                    "value": 2482
+                },
+                {
+                    "key": "Aat Veldhoen",
+                    "value": 2431
+                },
+                {
+                    "key": "Bernard Picart",
+                    "value": 2369
+                },
+                {
+                    "key": "Vincent Samuel Mentzel",
+                    "value": 2343
+                },
+                {
+                    "key": "Willem Witsen",
+                    "value": 2231
+                },
+                {
+                    "key": "anoniem (Monumentenzorg)",
+                    "value": 2045
+                },
+                {
+                    "key": "Antonio Tempesta",
+                    "value": 1914
+                },
+                {
+                    "key": "Carel Adolph Lion Cachet",
+                    "value": 1797
+                },
+                {
+                    "key": "Jacob Houbraken",
+                    "value": 1693
+                },
+                {
+                    "key": "Rembrandt van Rijn",
+                    "value": 1543
+                },
+                {
+                    "key": "Simon Fokke",
+                    "value": 1506
+                },
+                {
+                    "key": "Romeyn de Hooghe",
+                    "value": 1310
+                },
+                {
+                    "key": "Philips Galle",
+                    "value": 1308
+                },
+                {
+                    "key": "Richard Nicolaüs Roland Holst",
+                    "value": 1285
+                },
+                {
+                    "key": "Sébastien Leclerc (I)",
+                    "value": 1272
+                },
+                {
+                    "key": "Johan Michaël Schmidt Crans",
+                    "value": 1174
+                },
+                {
+                    "key": "Wenceslaus Hollar",
+                    "value": 1173
+                },
+                {
+                    "key": "Willem Diepraam",
+                    "value": 1149
+                },
+                {
+                    "key": "Jozef Israëls",
+                    "value": 1147
+                },
+                {
+                    "key": "Jan Veth",
+                    "value": 1133
+                },
+                {
+                    "key": "Jacob de Gheyn (II)",
+                    "value": 1121
+                },
+                {
+                    "key": "Frans Hogenberg",
+                    "value": 1118
+                },
+                {
+                    "key": "Crispijn van de Passe (I)",
+                    "value": 1111
+                },
+                {
+                    "key": "Meissener Porzellan Manufaktur",
+                    "value": 1094
+                },
+                {
+                    "key": "Jacques Callot",
+                    "value": 1081
+                },
+                {
+                    "key": "Stefano della Bella",
+                    "value": 1059
+                },
+                {
+                    "key": "Johann Sadeler (I)",
+                    "value": 1026
+                },
+                {
+                    "key": "Hendrick Goltzius",
+                    "value": 1020
+                },
+                {
+                    "key": "Adriaen Collaert",
+                    "value": 1014
+                },
+                {
+                    "key": "Caspar Luyken",
+                    "value": 1012
+                },
+                {
+                    "key": "Jeanne Bieruma Oosting",
+                    "value": 1007
+                },
+                {
+                    "key": "Michel Wolgemut",
+                    "value": 1002
+                },
+                {
+                    "key": "Hendrik Spilman",
+                    "value": 982
+                },
+                {
+                    "key": "Anton Mauve",
+                    "value": 981
+                },
+                {
+                    "key": "Leo Gestel",
+                    "value": 970
+                },
+                {
+                    "key": "Reinier Willem Petrus de Vries (1874-1952)",
+                    "value": 962
+                },
+                {
+                    "key": "Virgilius Solis",
+                    "value": 956
+                },
+                {
+                    "key": "Jan van de Velde (II)",
+                    "value": 939
+                },
+                {
+                    "key": "Cornelis Vreedenburgh",
+                    "value": 912
+                },
+                {
+                    "key": "Pieter Schenk (I)",
+                    "value": 910
+                },
+                {
+                    "key": "Gerrit Willem Dijsselhof",
+                    "value": 904
+                },
+                {
+                    "key": "Carel Nicolaas Storm van 's-Gravesande",
+                    "value": 887
+                },
+                {
+                    "key": "Christoffel van Sichem (II)",
+                    "value": 884
+                },
+                {
+                    "key": "diverse vervaardigers",
+                    "value": 859
+                },
+                {
+                    "key": "veuve Delpech (Naudet)",
+                    "value": 857
+                },
+                {
+                    "key": "Anselmus Boëtius de Boodt",
+                    "value": 835
+                },
+                {
+                    "key": "Israël Silvestre",
+                    "value": 826
+                },
+                {
+                    "key": "Theo van Hoytema",
+                    "value": 810
+                },
+                {
+                    "key": "Johannes of Lucas van Doetechum",
+                    "value": 799
+                },
+                {
+                    "key": "August Allebé",
+                    "value": 789
+                },
+                {
+                    "key": "Willem Cornelis Rip",
+                    "value": 778
+                },
+                {
+                    "key": "Jean Lepautre",
+                    "value": 776
+                },
+                {
+                    "key": "Reijer Stolk",
+                    "value": 771
+                },
+                {
+                    "key": "Jan Caspar Philips",
+                    "value": 755
+                },
+                {
+                    "key": "Abraham Rademaker",
+                    "value": 742
+                },
+                {
+                    "key": "Hendrik Doijer",
+                    "value": 736
+                },
+                {
+                    "key": "Eva Charlotte Pennink-Boelen",
+                    "value": 729
+                },
+                {
+                    "key": "Simon Frisius",
+                    "value": 721
+                },
+                {
+                    "key": "Manufactuur Oud-Loosdrecht",
+                    "value": 713
+                },
+                {
+                    "key": "Claude Mellan",
+                    "value": 706
+                },
+                {
+                    "key": "Charles Donker",
+                    "value": 699
+                },
+                {
+                    "key": "Crispijn van de Passe (II)",
+                    "value": 698
+                },
+                {
+                    "key": "Hieronymus Wierix",
+                    "value": 698
+                },
+                {
+                    "key": "Giorgio Sommer",
+                    "value": 687
+                },
+                {
+                    "key": "Pam Georg Rueter",
+                    "value": 667
+                },
+                {
+                    "key": "Carel Christiaan Antony Last",
+                    "value": 657
+                },
+                {
+                    "key": "Albert Greiner",
+                    "value": 654
+                },
+                {
+                    "key": "Giovanni Battista Piranesi",
+                    "value": 648
+                },
+                {
+                    "key": "Jacob Ernst Marcus",
+                    "value": 645
+                },
+                {
+                    "key": "Martin Bernigeroth",
+                    "value": 637
+                },
+                {
+                    "key": "Jan Punt",
+                    "value": 632
+                },
+                {
+                    "key": "Boëtius Adamsz. Bolswert",
+                    "value": 629
+                },
+                {
+                    "key": "Delizy",
+                    "value": 629
+                },
+                {
+                    "key": "Johannes Wierix",
+                    "value": 621
+                },
+                {
+                    "key": "Antoon Derkinderen",
+                    "value": 613
+                },
+                {
+                    "key": "Anthonie van den Bos",
+                    "value": 608
+                },
+                {
+                    "key": "Jacob Matham",
+                    "value": 601
+                },
+                {
+                    "key": "Claes Jansz. Visscher (II)",
+                    "value": 589
+                },
+                {
+                    "key": "Albrecht Dürer",
+                    "value": 587
+                },
+                {
+                    "key": "Isaac Weissenbruch",
+                    "value": 587
+                },
+                {
+                    "key": "Aegidius Sadeler",
+                    "value": 580
+                },
+                {
+                    "key": "Peter Vos",
+                    "value": 576
+                },
+                {
+                    "key": "Jan Brandes",
+                    "value": 573
+                },
+                {
+                    "key": "Woodbury & Page",
+                    "value": 572
+                },
+                {
+                    "key": "Hans Weiditz (II)",
+                    "value": 569
+                },
+                {
+                    "key": "Carel Willink",
+                    "value": 566
+                },
+                {
+                    "key": "Johan Braakensiek",
+                    "value": 566
+                },
+                {
+                    "key": "Jacques Villon",
+                    "value": 561
+                },
+                {
+                    "key": "jonkheer Hendrik Teding van Berkhout (1879-1969)",
+                    "value": 560
+                },
+                {
+                    "key": "Georg Rueter",
+                    "value": 557
+                },
+                {
+                    "key": "Lodewijk Schelfhout",
+                    "value": 553
+                },
+                {
+                    "key": "Maria Vos",
+                    "value": 553
+                }
+            ],
+            "name": "principalMaker",
+            "otherTerms": 716224,
+            "prettyName": 10
+        },
+        {
+            "facets": [
+                {
+                    "key": "print",
+                    "value": 335833
+                },
+                {
+                    "key": "photograph",
+                    "value": 115662
+                },
+                {
+                    "key": "drawing",
+                    "value": 48597
+                },
+                {
+                    "key": "photomechanical print",
+                    "value": 33831
+                },
+                {
+                    "key": "carte-de-visite",
+                    "value": 16618
+                },
+                {
+                    "key": "letter",
+                    "value": 11173
+                },
+                {
+                    "key": "stereograph",
+                    "value": 10771
+                },
+                {
+                    "key": "painting",
+                    "value": 4788
+                },
+                {
+                    "key": "cabinet photograph",
+                    "value": 4356
+                },
+                {
+                    "key": "book",
+                    "value": 3965
+                },
+                {
+                    "key": "history medal",
+                    "value": 3783
+                },
+                {
+                    "key": "documentary photographs",
+                    "value": 3336
+                },
+                {
+                    "key": "poster",
+                    "value": 3068
+                },
+                {
+                    "key": "text sheet",
+                    "value": 2925
+                },
+                {
+                    "key": "plate (dishes)",
+                    "value": 2239
+                },
+                {
+                    "key": "fragment",
+                    "value": 2109
+                },
+                {
+                    "key": "jeton",
+                    "value": 1759
+                },
+                {
+                    "key": "magazine",
+                    "value": 1636
+                },
+                {
+                    "key": "sculpture",
+                    "value": 1624
+                },
+                {
+                    "key": "furniture",
+                    "value": 1467
+                },
+                {
+                    "key": "lid",
+                    "value": 1278
+                },
+                {
+                    "key": "frame",
+                    "value": 1271
+                },
+                {
+                    "key": "manuscript",
+                    "value": 1107
+                },
+                {
+                    "key": "vase",
+                    "value": 1012
+                },
+                {
+                    "key": "bowl",
+                    "value": 989
+                },
+                {
+                    "key": "tile",
+                    "value": 906
+                },
+                {
+                    "key": "medal",
+                    "value": 884
+                },
+                {
+                    "key": "box",
+                    "value": 878
+                },
+                {
+                    "key": "service (set)",
+                    "value": 751
+                },
+                {
+                    "key": "tissue stereograph",
+                    "value": 744
+                },
+                {
+                    "key": "collage",
+                    "value": 713
+                },
+                {
+                    "key": "musical instrument",
+                    "value": 633
+                },
+                {
+                    "key": "dish",
+                    "value": 621
+                },
+                {
+                    "key": "figure",
+                    "value": 618
+                },
+                {
+                    "key": "miniature",
+                    "value": 613
+                },
+                {
+                    "key": "demonstration model",
+                    "value": 586
+                },
+                {
+                    "key": "jewellery",
+                    "value": 569
+                },
+                {
+                    "key": "pot",
+                    "value": 567
+                },
+                {
+                    "key": "contact print",
+                    "value": 543
+                },
+                {
+                    "key": "poem",
+                    "value": 533
+                },
+                {
+                    "key": "document",
+                    "value": 513
+                },
+                {
+                    "key": "ribbon (material)",
+                    "value": 508
+                },
+                {
+                    "key": "ship model",
+                    "value": 503
+                },
+                {
+                    "key": "coin",
+                    "value": 473
+                },
+                {
+                    "key": "spoon",
+                    "value": 440
+                },
+                {
+                    "key": "brooch",
+                    "value": 427
+                },
+                {
+                    "key": "braid",
+                    "value": 418
+                },
+                {
+                    "key": "candlestick",
+                    "value": 404
+                },
+                {
+                    "key": "button",
+                    "value": 396
+                },
+                {
+                    "key": "copy",
+                    "value": 395
+                },
+                {
+                    "key": "siege coin",
+                    "value": 382
+                },
+                {
+                    "key": "half model",
+                    "value": 340
+                },
+                {
+                    "key": "decorated paper",
+                    "value": 332
+                },
+                {
+                    "key": "goblet",
+                    "value": 319
+                },
+                {
+                    "key": "chandelier",
+                    "value": 312
+                },
+                {
+                    "key": "award medal",
+                    "value": 311
+                },
+                {
+                    "key": "builder's model",
+                    "value": 310
+                },
+                {
+                    "key": "Oriental rug",
+                    "value": 307
+                },
+                {
+                    "key": "album",
+                    "value": 305
+                },
+                {
+                    "key": "brocade paper",
+                    "value": 305
+                },
+                {
+                    "key": "Ektachrome",
+                    "value": 300
+                },
+                {
+                    "key": "miniature (painting)",
+                    "value": 300
+                },
+                {
+                    "key": "cup",
+                    "value": 296
+                },
+                {
+                    "key": "flintlock pistol",
+                    "value": 296
+                },
+                {
+                    "key": "gameboard",
+                    "value": 284
+                },
+                {
+                    "key": "postage stamp",
+                    "value": 279
+                },
+                {
+                    "key": "tureen",
+                    "value": 268
+                },
+                {
+                    "key": "wind instrument",
+                    "value": 266
+                },
+                {
+                    "key": "playing card",
+                    "value": 260
+                },
+                {
+                    "key": "chest",
+                    "value": 253
+                },
+                {
+                    "key": "pipe",
+                    "value": 251
+                },
+                {
+                    "key": "scrapbook",
+                    "value": 245
+                },
+                {
+                    "key": "marbled paper",
+                    "value": 243
+                },
+                {
+                    "key": "table",
+                    "value": 229
+                },
+                {
+                    "key": "textile materials",
+                    "value": 221
+                },
+                {
+                    "key": "brochure",
+                    "value": 217
+                },
+                {
+                    "key": "photomontage",
+                    "value": 213
+                },
+                {
+                    "key": "hat",
+                    "value": 211
+                },
+                {
+                    "key": "percussion instrument",
+                    "value": 209
+                },
+                {
+                    "key": "color slide",
+                    "value": 194
+                },
+                {
+                    "key": "part",
+                    "value": 177
+                },
+                {
+                    "key": "salt (condiment vessel)",
+                    "value": 172
+                },
+                {
+                    "key": "folder (container)",
+                    "value": 169
+                },
+                {
+                    "key": "case",
+                    "value": 168
+                },
+                {
+                    "key": "locket",
+                    "value": 164
+                },
+                {
+                    "key": "printed matter",
+                    "value": 150
+                },
+                {
+                    "key": "necklace",
+                    "value": 146
+                },
+                {
+                    "key": "tea service",
+                    "value": 145
+                },
+                {
+                    "key": "panel",
+                    "value": 144
+                },
+                {
+                    "key": "pedestal",
+                    "value": 144
+                },
+                {
+                    "key": "lantern slide",
+                    "value": 143
+                },
+                {
+                    "key": "pendant (jewelry)",
+                    "value": 141
+                },
+                {
+                    "key": "portfolio",
+                    "value": 141
+                },
+                {
+                    "key": "cloth",
+                    "value": 139
+                },
+                {
+                    "key": "steel (alloy)",
+                    "value": 137
+                },
+                {
+                    "key": "calendar",
+                    "value": 130
+                },
+                {
+                    "key": "tile tableau",
+                    "value": 130
+                },
+                {
+                    "key": "scarf",
+                    "value": 128
+                },
+                {
+                    "key": "scale model",
+                    "value": 120
+                },
+                {
+                    "key": "hanging scroll",
+                    "value": 118
+                }
+            ],
+            "name": "type",
+            "otherTerms": 0,
+            "prettyName": 3
+        },
+        {
+            "facets": [
+                {
+                    "key": "19",
+                    "value": 274892
+                },
+                {
+                    "key": "20",
+                    "value": 138156
+                },
+                {
+                    "key": "18",
+                    "value": 122300
+                },
+                {
+                    "key": "17",
+                    "value": 120531
+                },
+                {
+                    "key": "16",
+                    "value": 47164
+                },
+                {
+                    "key": "21",
+                    "value": 8624
+                },
+                {
+                    "key": "15",
+                    "value": 5273
+                },
+                {
+                    "key": "14",
+                    "value": 2215
+                },
+                {
+                    "key": "-2",
+                    "value": 1950
+                },
+                {
+                    "key": "12",
+                    "value": 360
+                },
+                {
+                    "key": "13",
+                    "value": 296
+                },
+                {
+                    "key": "-1",
+                    "value": 142
+                },
+                {
+                    "key": "10",
+                    "value": 122
+                },
+                {
+                    "key": "11",
+                    "value": 109
+                },
+                {
+                    "key": "9",
+                    "value": 106
+                },
+                {
+                    "key": "7",
+                    "value": 49
+                },
+                {
+                    "key": "8",
+                    "value": 49
+                },
+                {
+                    "key": "3",
+                    "value": 43
+                },
+                {
+                    "key": "6",
+                    "value": 34
+                },
+                {
+                    "key": "2",
+                    "value": 32
+                },
+                {
+                    "key": "5",
+                    "value": 29
+                },
+                {
+                    "key": "1",
+                    "value": 18
+                },
+                {
+                    "key": "4",
+                    "value": 14
+                },
+                {
+                    "key": "35",
+                    "value": 1
+                }
+            ],
+            "name": "dating.period",
+            "otherTerms": 0,
+            "prettyName": 4
+        },
+        {
+            "facets": [
+                {
+                    "key": "Amsterdam",
+                    "value": 89829
+                },
+                {
+                    "key": "Netherlands",
+                    "value": 61372
+                },
+                {
+                    "key": "Paris",
+                    "value": 48213
+                },
+                {
+                    "key": "The Hague",
+                    "value": 21892
+                },
+                {
+                    "key": "France",
+                    "value": 20888
+                },
+                {
+                    "key": "Antwerp",
+                    "value": 18942
+                },
+                {
+                    "key": "Northern Netherlands",
+                    "value": 17019
+                },
+                {
+                    "key": "Italy",
+                    "value": 15328
+                },
+                {
+                    "key": "London",
+                    "value": 14033
+                },
+                {
+                    "key": "Haarlem",
+                    "value": 10374
+                },
+                {
+                    "key": "Rome",
+                    "value": 10095
+                },
+                {
+                    "key": "Germany",
+                    "value": 8501
+                },
+                {
+                    "key": "Berlin",
+                    "value": 8028
+                },
+                {
+                    "key": "Leiden",
+                    "value": 7363
+                },
+                {
+                    "key": "Brussels",
+                    "value": 7076
+                },
+                {
+                    "key": "Japan",
+                    "value": 7034
+                },
+                {
+                    "key": "Rotterdam",
+                    "value": 6124
+                },
+                {
+                    "key": "Utrecht",
+                    "value": 5998
+                },
+                {
+                    "key": "? Netherlands",
+                    "value": 4428
+                },
+                {
+                    "key": "Low Countries",
+                    "value": 4374
+                },
+                {
+                    "key": "China",
+                    "value": 4343
+                },
+                {
+                    "key": "Augsburg",
+                    "value": 4041
+                },
+                {
+                    "key": "England",
+                    "value": 3993
+                },
+                {
+                    "key": "Delft",
+                    "value": 3895
+                },
+                {
+                    "key": "Southern Netherlands",
+                    "value": 3611
+                },
+                {
+                    "key": "unknown",
+                    "value": 3197
+                },
+                {
+                    "key": "Venice",
+                    "value": 3166
+                },
+                {
+                    "key": "Cologne",
+                    "value": 2823
+                },
+                {
+                    "key": "? France",
+                    "value": 2782
+                },
+                {
+                    "key": "Vienna",
+                    "value": 2628
+                },
+                {
+                    "key": "? Amsterdam",
+                    "value": 2426
+                },
+                {
+                    "key": "Suriname",
+                    "value": 2407
+                },
+                {
+                    "key": "Belgium",
+                    "value": 2399
+                },
+                {
+                    "key": "Dordrecht",
+                    "value": 2259
+                },
+                {
+                    "key": "Arnhem",
+                    "value": 2209
+                },
+                {
+                    "key": "New York (city)",
+                    "value": 2209
+                },
+                {
+                    "key": "Europe",
+                    "value": 2166
+                },
+                {
+                    "key": "? Germany",
+                    "value": 1851
+                },
+                {
+                    "key": "United States of America",
+                    "value": 1573
+                },
+                {
+                    "key": "Sumatra",
+                    "value": 1217
+                },
+                {
+                    "key": "Middelburg",
+                    "value": 1194
+                },
+                {
+                    "key": "Austria",
+                    "value": 1138
+                },
+                {
+                    "key": "Java",
+                    "value": 1113
+                },
+                {
+                    "key": "Maastricht",
+                    "value": 1004
+                },
+                {
+                    "key": "Spain",
+                    "value": 995
+                },
+                {
+                    "key": "Dutch East Indies, The",
+                    "value": 964
+                },
+                {
+                    "key": "Indonesia",
+                    "value": 960
+                },
+                {
+                    "key": "? Paris",
+                    "value": 909
+                },
+                {
+                    "key": "Switzerland",
+                    "value": 809
+                },
+                {
+                    "key": "? The Hague",
+                    "value": 802
+                },
+                {
+                    "key": "Den Bosch",
+                    "value": 797
+                },
+                {
+                    "key": "Great Britain",
+                    "value": 779
+                },
+                {
+                    "key": "Batavia",
+                    "value": 697
+                },
+                {
+                    "key": "Naples",
+                    "value": 634
+                },
+                {
+                    "key": "Bruges",
+                    "value": 632
+                },
+                {
+                    "key": "United Kingdom",
+                    "value": 628
+                },
+                {
+                    "key": "? Northern Netherlands",
+                    "value": 622
+                },
+                {
+                    "key": "? Italy",
+                    "value": 614
+                },
+                {
+                    "key": "Deventer",
+                    "value": 566
+                },
+                {
+                    "key": "Surabaya",
+                    "value": 548
+                },
+                {
+                    "key": "Ghent",
+                    "value": 517
+                },
+                {
+                    "key": "Mechelen",
+                    "value": 517
+                },
+                {
+                    "key": "Lyon",
+                    "value": 495
+                },
+                {
+                    "key": "Liège",
+                    "value": 462
+                },
+                {
+                    "key": "Gouda",
+                    "value": 451
+                },
+                {
+                    "key": "Kyoto",
+                    "value": 439
+                },
+                {
+                    "key": "? Belgium",
+                    "value": 388
+                },
+                {
+                    "key": "Pompeii",
+                    "value": 356
+                },
+                {
+                    "key": "Hoorn (North Holland)",
+                    "value": 332
+                },
+                {
+                    "key": "Flushing",
+                    "value": 320
+                },
+                {
+                    "key": "? England",
+                    "value": 316
+                },
+                {
+                    "key": "? New York (city)",
+                    "value": 308
+                },
+                {
+                    "key": "? Antwerp",
+                    "value": 306
+                },
+                {
+                    "key": "? Brussels",
+                    "value": 295
+                },
+                {
+                    "key": "? Southern Netherlands",
+                    "value": 286
+                },
+                {
+                    "key": "New York",
+                    "value": 284
+                },
+                {
+                    "key": "Copenhagen (city)",
+                    "value": 268
+                },
+                {
+                    "key": "Poland",
+                    "value": 268
+                },
+                {
+                    "key": "Glasgow",
+                    "value": 244
+                },
+                {
+                    "key": "Russia",
+                    "value": 244
+                },
+                {
+                    "key": "Enkhuizen",
+                    "value": 242
+                },
+                {
+                    "key": "Cleves",
+                    "value": 241
+                },
+                {
+                    "key": "Holland",
+                    "value": 240
+                },
+                {
+                    "key": "Zwickau",
+                    "value": 233
+                },
+                {
+                    "key": "Sri Lanka",
+                    "value": 231
+                },
+                {
+                    "key": "Norway",
+                    "value": 212
+                },
+                {
+                    "key": "Marseille",
+                    "value": 195
+                },
+                {
+                    "key": "Birmingham",
+                    "value": 189
+                },
+                {
+                    "key": "? London",
+                    "value": 188
+                },
+                {
+                    "key": "Denmark",
+                    "value": 188
+                },
+                {
+                    "key": "? Java",
+                    "value": 187
+                },
+                {
+                    "key": "Singapore",
+                    "value": 185
+                },
+                {
+                    "key": "? Haarlem",
+                    "value": 173
+                },
+                {
+                    "key": "Voorschoten",
+                    "value": 173
+                },
+                {
+                    "key": "? Europe",
+                    "value": 148
+                },
+                {
+                    "key": "Gelderland",
+                    "value": 137
+                },
+                {
+                    "key": "? Low Countries",
+                    "value": 136
+                },
+                {
+                    "key": "Zeist",
+                    "value": 136
+                },
+                {
+                    "key": "? Vienna",
+                    "value": 132
+                },
+                {
+                    "key": "? Rotterdam",
+                    "value": 127
+                }
+            ],
+            "name": "place",
+            "otherTerms": 0,
+            "prettyName": 2
+        },
+        {
+            "facets": [
+                {
+                    "key": "paper",
+                    "value": 522441
+                },
+                {
+                    "key": "photographic support",
+                    "value": 89848
+                },
+                {
+                    "key": "cardboard",
+                    "value": 70576
+                },
+                {
+                    "key": "ink",
+                    "value": 40855
+                },
+                {
+                    "key": "pencil",
+                    "value": 37554
+                },
+                {
+                    "key": "chalk",
+                    "value": 27230
+                },
+                {
+                    "key": "watercolor (paint)",
+                    "value": 11953
+                },
+                {
+                    "key": "linen (material)",
+                    "value": 9706
+                },
+                {
+                    "key": "wood (plant material)",
+                    "value": 9087
+                },
+                {
+                    "key": "silver (metal)",
+                    "value": 8845
+                },
+                {
+                    "key": "porcelain",
+                    "value": 8678
+                },
+                {
+                    "key": "baryta paper",
+                    "value": 7811
+                },
+                {
+                    "key": "glass",
+                    "value": 7342
+                },
+                {
+                    "key": "glaze",
+                    "value": 7139
+                },
+                {
+                    "key": "copper (metal)",
+                    "value": 6348
+                },
+                {
+                    "key": "silk",
+                    "value": 5197
+                },
+                {
+                    "key": "printing ink",
+                    "value": 5178
+                },
+                {
+                    "key": "oil paint (paint)",
+                    "value": 5138
+                },
+                {
+                    "key": "gold (metal)",
+                    "value": 4829
+                },
+                {
+                    "key": "deck paint",
+                    "value": 4708
+                },
+                {
+                    "key": "earthenware",
+                    "value": 4375
+                },
+                {
+                    "key": "India ink (ink)",
+                    "value": 4086
+                },
+                {
+                    "key": "iron (metal)",
+                    "value": 3768
+                },
+                {
+                    "key": "RC paper",
+                    "value": 3448
+                },
+                {
+                    "key": "metal",
+                    "value": 3232
+                },
+                {
+                    "key": "brass (alloy)",
+                    "value": 2980
+                },
+                {
+                    "key": "cotton (textile)",
+                    "value": 2932
+                },
+                {
+                    "key": "bronze (metal)",
+                    "value": 2842
+                },
+                {
+                    "key": "leather",
+                    "value": 2755
+                },
+                {
+                    "key": "canvas",
+                    "value": 2644
+                },
+                {
+                    "key": "Japanese paper (handmade paper)",
+                    "value": 2510
+                },
+                {
+                    "key": "paint (coating)",
+                    "value": 2458
+                },
+                {
+                    "key": "cobalt (mineral)",
+                    "value": 2270
+                },
+                {
+                    "key": "panel",
+                    "value": 1944
+                },
+                {
+                    "key": "oak (wood)",
+                    "value": 1703
+                },
+                {
+                    "key": "tin glaze",
+                    "value": 1581
+                },
+                {
+                    "key": "wool",
+                    "value": 1450
+                },
+                {
+                    "key": "lead (metal)",
+                    "value": 1432
+                },
+                {
+                    "key": "stoneware",
+                    "value": 1383
+                },
+                {
+                    "key": "graphite (mineral)",
+                    "value": 1344
+                },
+                {
+                    "key": "textile materials",
+                    "value": 1313
+                },
+                {
+                    "key": "transparant paper",
+                    "value": 1305
+                },
+                {
+                    "key": "parchment (animal material)",
+                    "value": 1268
+                },
+                {
+                    "key": "gouache (paint)",
+                    "value": 1242
+                },
+                {
+                    "key": "gilding (material)",
+                    "value": 1238
+                },
+                {
+                    "key": "velvet (fabric weave)",
+                    "value": 1194
+                },
+                {
+                    "key": "ivory",
+                    "value": 1088
+                },
+                {
+                    "key": "tin (metal)",
+                    "value": 1087
+                },
+                {
+                    "key": "tracing paper",
+                    "value": 886
+                },
+                {
+                    "key": "gold leaf",
+                    "value": 882
+                },
+                {
+                    "key": "walnut (hardwood)",
+                    "value": 753
+                },
+                {
+                    "key": "lacquer (coating)",
+                    "value": 735
+                },
+                {
+                    "key": "prepared paper",
+                    "value": 716
+                },
+                {
+                    "key": "rope",
+                    "value": 593
+                },
+                {
+                    "key": "pipe clay",
+                    "value": 567
+                },
+                {
+                    "key": "ebony (wood)",
+                    "value": 554
+                },
+                {
+                    "key": "plastic (organic material)",
+                    "value": 534
+                },
+                {
+                    "key": "marble (rock)",
+                    "value": 496
+                },
+                {
+                    "key": "satin",
+                    "value": 479
+                },
+                {
+                    "key": "celluloid (cellulosic)",
+                    "value": 472
+                },
+                {
+                    "key": "mother of pearl",
+                    "value": 461
+                },
+                {
+                    "key": "lead glaze",
+                    "value": 454
+                },
+                {
+                    "key": "bone china (material)",
+                    "value": 438
+                },
+                {
+                    "key": "mahogany (wood)",
+                    "value": 433
+                },
+                {
+                    "key": "photographic film (photographic materials)",
+                    "value": 433
+                },
+                {
+                    "key": "bone (material)",
+                    "value": 345
+                },
+                {
+                    "key": "silver thread",
+                    "value": 329
+                },
+                {
+                    "key": "batiste",
+                    "value": 324
+                },
+                {
+                    "key": "rosewood (wood)",
+                    "value": 324
+                },
+                {
+                    "key": "newsprint",
+                    "value": 287
+                },
+                {
+                    "key": "terracotta (clay material)",
+                    "value": 285
+                },
+                {
+                    "key": "ball-point pens",
+                    "value": 269
+                },
+                {
+                    "key": "cloth",
+                    "value": 268
+                },
+                {
+                    "key": "gypsum",
+                    "value": 265
+                },
+                {
+                    "key": "pine (wood)",
+                    "value": 260
+                },
+                {
+                    "key": "steel (alloy)",
+                    "value": 257
+                },
+                {
+                    "key": "beech (wood)",
+                    "value": 250
+                },
+                {
+                    "key": "linden",
+                    "value": 232
+                },
+                {
+                    "key": "corrugated board",
+                    "value": 214
+                },
+                {
+                    "key": "boxwood",
+                    "value": 212
+                },
+                {
+                    "key": "maple (wood)",
+                    "value": 211
+                },
+                {
+                    "key": "horn (animal material)",
+                    "value": 204
+                },
+                {
+                    "key": "marbled paper",
+                    "value": 197
+                },
+                {
+                    "key": "sandstone",
+                    "value": 194
+                },
+                {
+                    "key": "China paper",
+                    "value": 178
+                },
+                {
+                    "key": "engobe",
+                    "value": 176
+                },
+                {
+                    "key": "silver stain",
+                    "value": 172
+                },
+                {
+                    "key": "diamond (mineral)",
+                    "value": 170
+                },
+                {
+                    "key": "felt (textile)",
+                    "value": 150
+                },
+                {
+                    "key": "pearl",
+                    "value": 147
+                },
+                {
+                    "key": "pressure-sensitive tape",
+                    "value": 144
+                },
+                {
+                    "key": "taffeta",
+                    "value": 138
+                },
+                {
+                    "key": "wax",
+                    "value": 136
+                },
+                {
+                    "key": "looking glasses",
+                    "value": 133
+                },
+                {
+                    "key": "metal thread",
+                    "value": 133
+                },
+                {
+                    "key": "dye",
+                    "value": 125
+                },
+                {
+                    "key": "cork",
+                    "value": 121
+                },
+                {
+                    "key": "chamois (animal material)",
+                    "value": 120
+                },
+                {
+                    "key": "clay",
+                    "value": 120
+                },
+                {
+                    "key": "concretionary stone",
+                    "value": 116
+                }
+            ],
+            "name": "material",
+            "otherTerms": 0,
+            "prettyName": 5
+        },
+        {
+            "facets": [
+                {
+                    "key": "etching",
+                    "value": 176915
+                },
+                {
+                    "key": "engraving",
+                    "value": 126724
+                },
+                {
+                    "key": "albumen print",
+                    "value": 59902
+                },
+                {
+                    "key": "pen",
+                    "value": 38496
+                },
+                {
+                    "key": "letterpress printing",
+                    "value": 30562
+                },
+                {
+                    "key": "gelatin silver print",
+                    "value": 30183
+                },
+                {
+                    "key": "brush",
+                    "value": 29541
+                },
+                {
+                    "key": "writing (processes)",
+                    "value": 18810
+                },
+                {
+                    "key": "collotype",
+                    "value": 18150
+                },
+                {
+                    "key": "drypoint",
+                    "value": 12578
+                },
+                {
+                    "key": "printing",
+                    "value": 9565
+                },
+                {
+                    "key": "striking (metalworking)",
+                    "value": 7913
+                },
+                {
+                    "key": "painting",
+                    "value": 6907
+                },
+                {
+                    "key": "vitrification",
+                    "value": 6805
+                },
+                {
+                    "key": "gilding",
+                    "value": 6608
+                },
+                {
+                    "key": "printing block",
+                    "value": 4652
+                },
+                {
+                    "key": "colour woodcut",
+                    "value": 4399
+                },
+                {
+                    "key": "steel engraving",
+                    "value": 3944
+                },
+                {
+                    "key": "casting",
+                    "value": 2864
+                },
+                {
+                    "key": "cutting",
+                    "value": 2291
+                },
+                {
+                    "key": "damask",
+                    "value": 2087
+                },
+                {
+                    "key": "drawing",
+                    "value": 1789
+                },
+                {
+                    "key": "bobbin lace",
+                    "value": 1771
+                },
+                {
+                    "key": "salted paper print",
+                    "value": 1644
+                },
+                {
+                    "key": "embroidering",
+                    "value": 1574
+                },
+                {
+                    "key": "photolithography",
+                    "value": 1527
+                },
+                {
+                    "key": "slide",
+                    "value": 1437
+                },
+                {
+                    "key": "glassblowing",
+                    "value": 1374
+                },
+                {
+                    "key": "majolica",
+                    "value": 1072
+                },
+                {
+                    "key": "cyanotype",
+                    "value": 1047
+                },
+                {
+                    "key": "block printing (relief printing process)",
+                    "value": 923
+                },
+                {
+                    "key": "forging",
+                    "value": 878
+                },
+                {
+                    "key": "carbon print",
+                    "value": 862
+                },
+                {
+                    "key": "collage",
+                    "value": 782
+                },
+                {
+                    "key": "inkjet print",
+                    "value": 700
+                },
+                {
+                    "key": "lacquering",
+                    "value": 670
+                },
+                {
+                    "key": "perforating",
+                    "value": 625
+                },
+                {
+                    "key": "counterproof",
+                    "value": 562
+                },
+                {
+                    "key": "grinding",
+                    "value": 492
+                },
+                {
+                    "key": "knitting",
+                    "value": 487
+                },
+                {
+                    "key": "retroussage",
+                    "value": 444
+                },
+                {
+                    "key": "ferrotyping",
+                    "value": 438
+                },
+                {
+                    "key": "snipping",
+                    "value": 415
+                },
+                {
+                    "key": "sewing",
+                    "value": 404
+                },
+                {
+                    "key": "ambrotype",
+                    "value": 312
+                },
+                {
+                    "key": "relief printing",
+                    "value": 310
+                },
+                {
+                    "key": "polishing",
+                    "value": 282
+                },
+                {
+                    "key": "tapestry",
+                    "value": 282
+                },
+                {
+                    "key": "Valenciennes lace",
+                    "value": 273
+                },
+                {
+                    "key": "pencil",
+                    "value": 263
+                },
+                {
+                    "key": "decorated paper",
+                    "value": 238
+                },
+                {
+                    "key": "Mechlin (lace)",
+                    "value": 219
+                },
+                {
+                    "key": "manuscript",
+                    "value": 206
+                },
+                {
+                    "key": "sawing",
+                    "value": 197
+                },
+                {
+                    "key": "soldering",
+                    "value": 169
+                },
+                {
+                    "key": "twill",
+                    "value": 164
+                },
+                {
+                    "key": "photochrom",
+                    "value": 162
+                },
+                {
+                    "key": "inlay (process)",
+                    "value": 160
+                },
+                {
+                    "key": "Lille lace",
+                    "value": 156
+                },
+                {
+                    "key": "braiding",
+                    "value": 155
+                },
+                {
+                    "key": "combed marbled paper",
+                    "value": 150
+                },
+                {
+                    "key": "Alençon lace",
+                    "value": 138
+                },
+                {
+                    "key": "Binche lace",
+                    "value": 135
+                },
+                {
+                    "key": "mixed lace",
+                    "value": 133
+                },
+                {
+                    "key": "filigree",
+                    "value": 132
+                },
+                {
+                    "key": "marbled paper",
+                    "value": 122
+                },
+                {
+                    "key": "stapling",
+                    "value": 121
+                },
+                {
+                    "key": "printed matter",
+                    "value": 118
+                },
+                {
+                    "key": "Woodburygravure",
+                    "value": 109
+                },
+                {
+                    "key": "Brussels bobbin lace",
+                    "value": 108
+                },
+                {
+                    "key": "phantasy marbled paper",
+                    "value": 104
+                },
+                {
+                    "key": "snail marbled paper",
+                    "value": 100
+                },
+                {
+                    "key": "Brussels point de gaze",
+                    "value": 93
+                },
+                {
+                    "key": "filing",
+                    "value": 91
+                },
+                {
+                    "key": "ink",
+                    "value": 90
+                },
+                {
+                    "key": "old Flemish lace",
+                    "value": 89
+                },
+                {
+                    "key": "Cluny lace",
+                    "value": 88
+                },
+                {
+                    "key": "scoring",
+                    "value": 84
+                },
+                {
+                    "key": "agate marbled paper",
+                    "value": 83
+                },
+                {
+                    "key": "crocheting",
+                    "value": 78
+                },
+                {
+                    "key": "lampas (textile material)",
+                    "value": 76
+                },
+                {
+                    "key": "Brussels appliqué",
+                    "value": 72
+                },
+                {
+                    "key": "Venetian raised work",
+                    "value": 71
+                },
+                {
+                    "key": "chintz",
+                    "value": 71
+                },
+                {
+                    "key": "gluing",
+                    "value": 69
+                },
+                {
+                    "key": "stone marbled paper",
+                    "value": 68
+                },
+                {
+                    "key": "flat Venetian (needle point)",
+                    "value": 64
+                },
+                {
+                    "key": "spanish marbled paper",
+                    "value": 63
+                },
+                {
+                    "key": "chalk",
+                    "value": 61
+                },
+                {
+                    "key": "blow molding",
+                    "value": 59
+                },
+                {
+                    "key": "jacquard",
+                    "value": 59
+                },
+                {
+                    "key": "basting",
+                    "value": 54
+                },
+                {
+                    "key": "cocoa marbled paper",
+                    "value": 51
+                },
+                {
+                    "key": "hammering",
+                    "value": 49
+                },
+                {
+                    "key": "torchon lace",
+                    "value": 48
+                },
+                {
+                    "key": "faceting",
+                    "value": 46
+                },
+                {
+                    "key": "mixed Brussels",
+                    "value": 46
+                },
+                {
+                    "key": "sprinkled paper",
+                    "value": 46
+                },
+                {
+                    "key": "shell marbled paper",
+                    "value": 44
+                },
+                {
+                    "key": "tape lace (bobbin lace)",
+                    "value": 44
+                }
+            ],
+            "name": "technique",
+            "otherTerms": 0,
+            "prettyName": 8
+        },
+        {
+            "facets": [
+                {
+                    "key": " #737C84",
+                    "value": 61809
+                },
+                {
+                    "key": "#FBF6E1",
+                    "value": 47502
+                },
+                {
+                    "key": " #2F4F4F",
+                    "value": 40923
+                },
+                {
+                    "key": " #E0CC91",
+                    "value": 36712
+                },
+                {
+                    "key": " #FBF6E1",
+                    "value": 22750
+                },
+                {
+                    "key": " #000000",
+                    "value": 22711
+                },
+                {
+                    "key": " #B5BFCC",
+                    "value": 13003
+                },
+                {
+                    "key": "#737C84",
+                    "value": 12135
+                },
+                {
+                    "key": " #B35A1F",
+                    "value": 8471
+                },
+                {
+                    "key": "#E0CC91",
+                    "value": 8152
+                },
+                {
+                    "key": " #F6ECF3",
+                    "value": 7668
+                },
+                {
+                    "key": "#000000",
+                    "value": 3296
+                },
+                {
+                    "key": "#B5BFCC",
+                    "value": 3057
+                },
+                {
+                    "key": "#F6ECF3",
+                    "value": 2030
+                },
+                {
+                    "key": " #981313",
+                    "value": 1885
+                },
+                {
+                    "key": " #F49B7A",
+                    "value": 1697
+                },
+                {
+                    "key": "#2F4F4F",
+                    "value": 1438
+                },
+                {
+                    "key": " #DDA5AA",
+                    "value": 1049
+                },
+                {
+                    "key": " #E09714",
+                    "value": 845
+                },
+                {
+                    "key": "#B35A1F",
+                    "value": 743
+                },
+                {
+                    "key": " #367614",
+                    "value": 716
+                },
+                {
+                    "key": " #4019B1",
+                    "value": 698
+                },
+                {
+                    "key": " #4279DB",
+                    "value": 695
+                },
+                {
+                    "key": " #DE4153",
+                    "value": 325
+                },
+                {
+                    "key": " #62AD77",
+                    "value": 238
+                },
+                {
+                    "key": " #8268DC",
+                    "value": 219
+                },
+                {
+                    "key": " #850085",
+                    "value": 188
+                },
+                {
+                    "key": "#981313",
+                    "value": 186
+                },
+                {
+                    "key": "#DDA5AA",
+                    "value": 136
+                },
+                {
+                    "key": " #DF4C93",
+                    "value": 116
+                },
+                {
+                    "key": " #FFEB00",
+                    "value": 93
+                },
+                {
+                    "key": "#4279DB",
+                    "value": 75
+                }
+            ],
+            "name": "normalized32Colors.hex",
+            "otherTerms": 302044,
+            "prettyName": 9
+        }
+    ]
+}

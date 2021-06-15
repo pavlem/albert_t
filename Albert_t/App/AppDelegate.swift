@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Albert_t
-//
-//  Created by Pavle Mijatovic on 14.6.21..
-//
-
 import UIKit
 
 @main
